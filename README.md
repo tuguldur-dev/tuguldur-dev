@@ -55,9 +55,3 @@ I am proud to be a **Kubestronaut**, holding all 5 major Kubernetes certificatio
 *   📘 **Facebook:** [tuguldur.dev](https://www.facebook.com/tuguldur.dev)
 *   📧 **Email:** [hello@tuguldur.dev](mailto:hello@tuguldur.dev)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuguldur-dev&show_icons=true&theme=tokyonight" alt="Tuguldur's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuguldur-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
