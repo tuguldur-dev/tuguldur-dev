@@ -1,4 +1,4 @@
-# Hi there, I'm Theo Demberel 👋
+# Hi there, I'm Theo 👋
 
 ### Kubestronaut | Software Engineer 
 
