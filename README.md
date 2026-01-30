@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Theo Demberel 👋
 
-<!--
-**tuguldur-dev/tuguldur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Kubestronaut | Software Engineer 
 
-Here are some ideas to get you started:
+I am a passionate Software Engineer with over 7 years of experience in building scalable, user-focused systems. Currently, I am working at **Khan Bank**, Mongolia's largest bank, focusing on Kubernetes networking, cloud-native architecture, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proud to be a **Kubestronaut**, holding all 5 major Kubernetes certifications from The Linux Foundation.
+
+---
+
+### 🛠️ Skills & Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🏆 Certifications
+
+**🚀 Kubestronaut**
+> Awarded for holding all 5 Kubernetes certifications.
+
+*   **CKS**: Certified Kubernetes Security Specialist
+*   **CKA**: Certified Kubernetes Administrator
+*   **CKAD**: Certified Kubernetes Application Developer
+*   **KCSA**: Kubernetes and Cloud Native Security Associate
+*   **KCNA**: Kubernetes and Cloud Native Associate
+
+**Other**
+*   **AWS Certified Solutions Architect – Associate**
+
+
+### 📫 Connect with Me
+
+*   🌐 **Website:** [tuguldur.dev](https://tuguldur.dev)
+*   👔 **LinkedIn:** [tuguldur-dev](https://www.linkedin.com/in/tuguldur-dev/)
+*   📸 **Instagram:** [@tuguldur.dev](https://www.instagram.com/tuguldur.dev)
+*   📘 **Facebook:** [tuguldur.dev](https://www.facebook.com/tuguldur.dev)
+*   📧 **Email:** [hello@tuguldur.dev](mailto:hello@tuguldur.dev)
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuguldur-dev&show_icons=true&theme=tokyonight" alt="Tuguldur's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuguldur-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
