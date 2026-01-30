@@ -2,10 +2,6 @@
 
 ### Kubestronaut | Software Engineer 
 
-Currently, I am working at **Khan Bank**, Mongolia's largest bank, focusing on Kubernetes networking, cloud-native architecture, and distributed systems.
-
-I am proud to be a **Kubestronaut**, holding all 5 major Kubernetes certifications from The Linux Foundation.
-
 ---
 
 ### 🛠️ Skills & Stack
