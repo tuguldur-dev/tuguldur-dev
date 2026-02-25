@@ -1,4 +1,4 @@
-# Hi there, I'm Theo 👋
+# Hi there, I'm Tuguldur (Theo) 👋
 
 ### Kubestronaut | Software Engineer 
 
