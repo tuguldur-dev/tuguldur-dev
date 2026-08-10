@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Skills & Stack
+### Skills & Stack
 
 
 <p align="left">
@@ -27,22 +27,30 @@
 </p>
 
 
-### 🏆 Certifications
+### Certifications
 
-**🚀 Kubestronaut**
-> Awarded for holding all 5 Kubernetes certifications.
+**[Kubestronaut](https://www.credly.com/badges/a6086dce-cc9f-4617-b694-ea5521d41912)**
+*   **[CKS](https://www.credly.com/badges/58abf29a-ef66-432c-be2f-d9149e2d07ca)**: Certified Kubernetes Security Specialist
+*   **[CKA](https://www.credly.com/badges/f42d17cc-79cd-48a5-b926-646883701340)**: Certified Kubernetes Administrator
+*   **[CKAD](https://www.credly.com/badges/c517c296-f51b-4f95-8a7c-69768cf26942)**: Certified Kubernetes Application Developer
+*   **[KCSA](https://www.credly.com/badges/11c60429-33cb-4d83-b4d7-652a685e900f)**: Kubernetes and Cloud Native Security Associate
+*   **[KCNA](https://www.credly.com/badges/c51d8de3-e0a8-4a55-b9c5-68e1019088c6)**: Kubernetes and Cloud Native Associate
 
-*   **CKS**: Certified Kubernetes Security Specialist
-*   **CKA**: Certified Kubernetes Administrator
-*   **CKAD**: Certified Kubernetes Application Developer
-*   **KCSA**: Kubernetes and Cloud Native Security Associate
-*   **KCNA**: Kubernetes and Cloud Native Associate
+**Cloud Native Associates**
+*   **[CBA](https://www.credly.com/badges/35d4de96-876b-47ae-aab5-94e06b3a8c12)**: Certified Backstage Associate
+*   **[CCA](https://www.credly.com/badges/9eb62351-8be7-48c7-8536-21ab961ecdf9)**: Cilium Certified Associate
+*   **[CAPA](https://www.credly.com/badges/93397fbe-007b-419a-886a-9fcfac2c711e)**: Certified Argo Project Associate
+*   **[CGOA](https://www.credly.com/badges/a87ba8da-bdb6-45bb-88d7-a81b389b3692)**: Certified GitOps Associate
+*   **[ICA](https://www.credly.com/badges/0a038004-8c12-4cde-9b23-1baf6fc9d6b7)**: Istio Certified Associate
+*   **[OTCA](https://www.credly.com/badges/97d5a948-33c6-4828-86f9-0562a69494aa)**: OpenTelemetry Certified Associate
+*   **[PCA](https://www.credly.com/badges/45d7c657-dd71-4916-b8ab-e9262493e6f5)**: Prometheus Certified Associate
+*   **[LFCS](https://www.credly.com/badges/c98896f8-544e-47da-b653-772ebfe3cc51)**: Linux Foundation Certified Systems Administrator
 
 **Other**
-*   **AWS Certified Solutions Architect – Associate**
+*   **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/915b20ab-b8f0-4117-beb4-3fdac780221b)** (Expired)
 
 
-### 📫 Connect with Me
+### Connect with Me
 
 *   🌐 **Website:** [tuguldur.dev](https://tuguldur.dev)
 *   👔 **LinkedIn:** [tuguldur-dev](https://www.linkedin.com/in/tuguldur-dev/)
