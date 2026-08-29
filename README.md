@@ -44,6 +44,9 @@
 *   **[ICA](https://www.credly.com/badges/0a038004-8c12-4cde-9b23-1baf6fc9d6b7)**: Istio Certified Associate
 *   **[OTCA](https://www.credly.com/badges/97d5a948-33c6-4828-86f9-0562a69494aa)**: OpenTelemetry Certified Associate
 *   **[PCA](https://www.credly.com/badges/45d7c657-dd71-4916-b8ab-e9262493e6f5)**: Prometheus Certified Associate
+*   **[KCA](https://www.credly.com/badges/873d47e2-4d10-493f-a888-49ea658b96bf)**: Kyverno Certified Associate
+*   **[CNPA](https://www.credly.com/badges/c7bd5332-4309-4547-94d4-86173a97ca11)**: Cloud Native Platform Engineering Associate
+*   **[CNPE](https://www.credly.com/badges/337ede44-b793-4b82-a079-467e07d9a552)**: Certified Cloud Native Platform Engineer
 *   **[LFCS](https://www.credly.com/badges/c98896f8-544e-47da-b653-772ebfe3cc51)**: Linux Foundation Certified Systems Administrator
 
 **Other**
