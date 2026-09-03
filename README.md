@@ -1,6 +1,6 @@
 # Hi there, I'm Tuguldur (Theo) 👋
 
-### Kubestronaut | Software Engineer 
+### Golden Kubestronaut | Software Engineer 
 
 ---
 
@@ -28,6 +28,8 @@
 
 
 ### Certifications
+
+**[Golden Kubestronaut](https://www.credly.com/badges/2390d2a9-4d3f-43c3-9cc9-faeae1378e9d)**
 
 **[Kubestronaut](https://www.credly.com/badges/a6086dce-cc9f-4617-b694-ea5521d41912)**
 *   **[CKS](https://www.credly.com/badges/58abf29a-ef66-432c-be2f-d9149e2d07ca)**: Certified Kubernetes Security Specialist
