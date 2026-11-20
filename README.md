@@ -1,3 +1,9 @@
+<a href="https://certdirectory.io/profile/theo-demberel?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/theo-demberel.svg?style=card&theme=dark">
+    <img alt="Theo Demberel on CertDirectory" src="https://certdirectory.io/badge/theo-demberel.svg?style=card">
+  </picture>
+</a>
 # Hi there, I'm Tuguldur (Theo) 👋
 
 ### Golden Kubestronaut | Software Engineer 
