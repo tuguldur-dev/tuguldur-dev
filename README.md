@@ -4,6 +4,7 @@
     <img alt="Theo Demberel on CertDirectory" src="https://certdirectory.io/badge/theo-demberel.svg?style=card">
   </picture>
 </a>
+
 # Hi there, I'm Tuguldur (Theo) 👋
 
 ### Golden Kubestronaut | Software Engineer 
